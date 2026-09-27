@@ -1,5 +1,5 @@
 # Занятие 1 · Вводное: что такое backend
-
+**Царёв Сергей Александрович 11/1-РПО-26/1**
 **Презентация:** https://algorthimization-course-vvodnoe.vercel.app/mdk0101-razrabotka-modulei/lessons/01-vvodnaya/index.html
 
 **Изучили:** путь запроса от кнопки до ответа сервиса; API, JSON, бизнес-логику
